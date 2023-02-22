@@ -1,4 +1,6 @@
-# pagila-hw ![https://github.com/KaranGoel1/pagila-hw/actions?query=workflow%3Atests](https://github.com/KaranGoel1/pagila-hw/workflows/tests/badge.svg)
+# pagila-hw
+
+[![](https://github.com/KaranGoel1/pagila-hw/workflows/tests/badge.svg)](https://github.com/KaranGoel1/pagila-hw/actions?query=workflow%3Atests)
 
 ## Background
 
